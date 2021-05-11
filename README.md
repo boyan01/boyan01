@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 既自以心为形役，奚惆怅而独悲。
 - 📫 How to reach me: yangbinyhbn@gmail.com
 - ⚡ Sometime write code in https://live.bilibili.com/2395563
 
